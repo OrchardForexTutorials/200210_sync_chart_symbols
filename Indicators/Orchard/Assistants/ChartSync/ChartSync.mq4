@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
-//|                                                  ChartHopper.mq4 |
-//|                             Copyright 2013-2019, Novateq Pty Ltd |
-//|                                           https://novateq.com.au |
+//|                                                    ChartSync.mq4 |
+//|                               Copyright 2013-2020, Orchard Forex |
+//|                                         https://orchardforex.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2013-2019, Novateq Pty Ltd"
-#property link      "https://novateq.com.au"
+#property copyright "Copyright 2013-2020, Orchard Forex"
+#property link      "https://orchardforex.com"
 #property version   "1.00"
 #property strict
 #property indicator_chart_window
